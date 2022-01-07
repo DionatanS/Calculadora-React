@@ -1,4 +1,4 @@
-# Loja de Tênis
+# Caalculadora
 
 Este projeto é uma simulação de uma calculadora desenvolvida com Reac.js, com a intenção de agregar mais conhecimentos desse framework.
 
@@ -9,6 +9,7 @@ Este projeto é uma simulação de uma calculadora desenvolvida com Reac.js, com
 
 
 # Calculadora
+
 ![Calculadora](screenshots/Screenshot_1.png?raw=true "Calculadora")
 
 
